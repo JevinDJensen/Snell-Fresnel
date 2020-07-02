@@ -1,7 +1,7 @@
 Mathematica Applets Demonstrating Snell's Law and the Fresnel Equations
 =====
 
-This is a temporary repository for Supplementary Information accompanying the manuscript 
+This is a temporary repository for Supplementary Information accompanying the manuscripts 
 "The Parable of the Fish: A Lesson in Image Formation" and "An Illustrative Study of Snell's Law and the Fresnel Equations" by J. D. Jensen and Y. L. Loh.  
 
 After publication, this material will be permanently available via the AIP Electronic Physics Auxiliary Publication Service (EPAPS).
